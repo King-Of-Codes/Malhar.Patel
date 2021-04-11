@@ -1,0 +1,69 @@
+body{background-color: #3490de;
+margin: 0 0 0 0;
+text-align:center;
+font-family: Merriweather, serif;}
+h1{color: #09015f;
+margin: 0 0 0 0;}
+.Top-Box{font-size: 250%;
+background-color: #3490de;
+position: relative;
+padding-top: 100px;
+font-family: Sacramento, cursive;}
+hr{border: dotted #eaf6f6 6px;
+border-bottom: none;
+width: 4%;
+margin: 100px auto;}
+h2{padding-bottom: 10px;
+font-family: Montserrat,sans-serif;
+font-size: 200%;
+color: #09015f;}
+h3{font-family: Montserrat,sans-serif;
+color: #09015f;}
+.bottom-cloud{position:absolute;
+left: 300px;
+bottom: 300px;}
+p{line-height: 2;
+color: 40514E;}
+.top-cloud{position:absolute;
+right:300px;
+top:50px;}
+.skills{background-color: #3490de;width: 50%;
+text-align: left;
+margin:100px auto 100px auto;}
+.A_Programmer{color:#09015f}
+.Coding{width:50%;
+float: left;
+margin-right: 30px;}
+.Footballer{float: right;
+width:40%;
+margin-left: 30px;}
+.second-bottom{margin: 200px auto 100px auto;}
+.Green3D {
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   color: #FFFFFF;
+   font-family: Verdana;
+   font-size: 21px;
+   font-weight: 100;
+   padding: 20px;
+   background-color: #0068FF;
+   -webkit-box-shadow: 0 4px 0 2px #000000;
+   -moz-box-shadow: 0 4px 0 2px #000000;
+   box-shadow: 0 4px 0 2px #000000;
+   text-shadow: 1px 1px 5px #0059A0;
+   border: solid #0D772A 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.Green3D:hover {
+   background: #5CB3F9;
+   border: solid #008EFF 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 8px;
+   text-decoration: none;
+}
